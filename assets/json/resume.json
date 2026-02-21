@@ -43,11 +43,7 @@
       "startDate": "2024-08",
       "endDate": "Present",
       "advisor": "Prof. Hai Phan",
-      "topics": [
-        "LLMs",
-        "reinforcement learning",
-        "software security and privacy"
-      ],
+      "topics": ["LLMs", "reinforcement learning", "software security and privacy"],
       "projects": [
         {
           "name": "Vulnerability Fixing with Functionality Preserving via Reinforcement Learning",
@@ -80,10 +76,7 @@
       "position": "Research Collaborator",
       "startDate": "2026-01",
       "endDate": "Present",
-      "topics": [
-        "Large Language Models",
-        "Agentic Systems"
-      ],
+      "topics": ["Large Language Models", "Agentic Systems"],
       "projects": [
         {
           "name": "Mobile Agentic Systems",
@@ -101,12 +94,7 @@
       "position": "Research Collaborator",
       "startDate": "2025-11",
       "endDate": "Present",
-      "topics": [
-        "Reinforcement Learning",
-        "Scheduling",
-        "Resource Management",
-        "Large Language Models"
-      ],
+      "topics": ["Reinforcement Learning", "Scheduling", "Resource Management", "Large Language Models"],
       "projects": [
         {
           "name": "Cellular Network Maintenance Scheduling",
@@ -151,14 +139,7 @@
         "Developed NOIR web application and inference engine, enabling users to privately query LLMs and observe security attack attempts in real time",
         "Reduced NOIR's inference latency by 3× by extending vllm with split-learning CUDA graph and high-throughput gRPC packet transfer"
       ],
-      "technologies": [
-        "vllm",
-        "CUDA",
-        "gRPC",
-        "Python",
-        "FastAPI",
-        "ReactJS"
-      ]
+      "technologies": ["vllm", "CUDA", "gRPC", "Python", "FastAPI", "ReactJS"]
     },
     {
       "name": "FPT Software",
@@ -171,13 +152,7 @@
         "Designed a Tableau dashboard to visualize risk assessment results, enabling stakeholders to pinpoint process bottlenecks",
         "Developed an LLM-based QA system that automatically responds to employee queries about the risk assessment process, reducing manual support and handover load"
       ],
-      "technologies": [
-        "Oracle SQL",
-        "Microsoft PowerApps",
-        "Tableau",
-        "Python",
-        "Huggingface Transformers"
-      ]
+      "technologies": ["Oracle SQL", "Microsoft PowerApps", "Tableau", "Python", "Huggingface Transformers"]
     },
     {
       "name": "Productminds",
@@ -189,14 +164,7 @@
         "Built an NLP pipeline to automatically crawl Danish news articles and extract named entities, serving as the core data source for trend analysis products",
         "Developed an LLM-based machine translation system for Icelandic-to-English, enabling coverage of a low-resource language"
       ],
-      "technologies": [
-        "Supabase",
-        "Python",
-        "OpenAI API",
-        "Huggingface Transformers",
-        "FastAPI",
-        "spaCy"
-      ]
+      "technologies": ["Supabase", "Python", "OpenAI API", "Huggingface Transformers", "FastAPI", "spaCy"]
     }
   ],
   "teaching": [
@@ -259,28 +227,15 @@
   "skills": [
     {
       "name": "Programming",
-      "keywords": [
-        "Python",
-        "C/C++"
-      ]
+      "keywords": ["Python", "C/C++"]
     },
     {
       "name": "Tools",
-      "keywords": [
-        "Git",
-        "Linux",
-        "Docker",
-        "HPC"
-      ]
+      "keywords": ["Git", "Linux", "Docker", "HPC"]
     },
     {
       "name": "ML Tools",
-      "keywords": [
-        "Pytorch",
-        "Huggingface Transformers",
-        "verl",
-        "vllm"
-      ]
+      "keywords": ["Pytorch", "Huggingface Transformers", "verl", "vllm"]
     }
   ]
 }
