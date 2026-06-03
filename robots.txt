@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://th4tkh13m.github.io/sitemap.xml
+Sitemap: https://khiemton.top/sitemap.xml
