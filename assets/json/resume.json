@@ -30,9 +30,7 @@
       "endDate": "Present",
       "status": "in progress",
       "department": "Data Science Department",
-      "courses": [
-        "Focus: LLMs, VLMs, Post-Training (SFT & RL), Agentic Systems, AI for Software Engineering, Security, Privacy"
-      ]
+      "courses": ["Focus: LLMs, VLMs, Post-Training (SFT & RL), Agentic Systems, AI for Software Engineering, Security, Privacy"]
     }
   ],
   "research": [
